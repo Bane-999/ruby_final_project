@@ -1,0 +1,8 @@
+echo -e "\033[40;37m Black Bottom White \033[0m"
+echo -e "\033[41;37m Red bottom White \033[0m"
+echo -e "\033[42;37m Green bottom White \033[0m"
+echo -e "\033[43;37m Yellow \033[0m"
+echo -e "\033[44;37m Blue bottom White \033[0m"
+echo -e "\033[45;37m Purple \033[0m"
+echo -e "\033[46;37m sky blue Bottom White \033[0m"
+echo -e "\033[47;30m black character \033[0m on white background"
